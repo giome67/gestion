@@ -1,8 +1,8 @@
-# 📘 Cours de Gestion
+# Gestion
 
-Bienvenue sur mon site de cours de gestion. Choisissez un thème pour accéder aux contenus.
+La gestion accessible.
 
-## 📚 Grands thèmes
+## Matières
 
 - [Finance](finance/index.md)
 - [Contrôle de gestion](controle-gestion/index.md)
