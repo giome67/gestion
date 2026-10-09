@@ -4,4 +4,4 @@ Bienvenue dans la section Contrôle de gestion.
 
 ## 📑 Notions
 
-[Contrôle de gestion](positionnement.md)
+[Positionnement](positionnement.md)
