@@ -1,0 +1,545 @@
+﻿CONTRÔLE DE GESTION
+Chapitre 1. Positionnement du contrôle de gestion et identification du métier
+I. Le contrôle de gestion dans le contexte de management actuel
+A. Le contexte actuel de management
+B. Le pilotage de la performance
+II. Le positionnement et la contingence du contrôle de gestion
+A. L’émergence du contrôle de gestion
+B. Définition du contrôle de gestion
+C. Le périmètre actuel du contrôle de gestion
+D. Les autres formes de contrôle
+III. Le métier du contrôleur de gestion
+A. Les missions du contrôleur de gestion
+B. Les qualités du contrôleur de gestion
+C. La place du contrôleur de gestion au sein de l’organisation
+IV. Le lien entre le contrôle de gestion et le système d’information
+A. le contrôle de gestion comme un système d’information
+B. Les sources d'information du contrôle de gestion
+V. L’avenir du contrôle de gestion
+A. Un contexte exigeant un élargissement du contrôle de gestion
+B. Les évolutions du contrôle de gestion
+Chapitre 2. Contrôle de gestion en avenir incertain et aléatoire
+I. Les variables aléatoires
+A. Les variables aléatoires et les probabilités
+B. Les variables aléatoires discrètes
+C. Les variables aléatoires continues
+D. Les caractéristiques d’une variable aléatoire
+II. La loi normale
+A. Les caractéristiques de la loi normale
+B. La lecture de la table de la loi normale
+C. L’utilisation de la loi normale
+Chapitre 3. Gestion budgétaires
+I. La stratégie budgétaire et la stratégie de l'organisation
+A. La planification d’entreprise
+B. La démarche de gestion budgétaire
+C. Les caractéristique de la gestion budgétaire
+II. La mise en oeuvre de la gestion budgétaire
+A. Des budgets structurés en centre de responsabilité
+B. Des budgets structurés en activités et processus
+III. Les enjeux et limites de la gestion budgétaire
+A. Les enjeux et les intérêts
+B. Les limites
+C. Beyond Budgeting
+Chapitre 4. Gestion budgétaire de l’activité commerciale
+I. Les enjeux de la gestion budgétaire de l’activité commerciale
+A. Les approches marketing
+B. Les approches statistiques de prévisions
+II. Les ventes saisonnières
+A. Définition du phénomène de saisonnalité
+B. Les modèles mathématiques de saisonnalité
+C. Modélisation de la tendance saisonnalité
+D. Prévisions des ventes saisonnières
+III. Les budgets des activités commerciales
+A. Les intérêts de méthodes de prévisions
+B. Les limites des données et des modèles
+Chapitre 5. Gestion budgétaire de la production
+I. Les enjeux de la gestion de la production
+A. La gestion de la production sous contrainte
+B. Les modes de gestion de la production
+II. Les modèles mathématiques de détermination des quantitées à produire
+A. Le cas de monoproduction
+B. Le cas de multiproduction - la programmation linéaire
+C. Le facteur rare
+D. Le goulot d’étranglement
+
+
+Chapitre 1. Positionnement du contrôle de gestion et identification du métier
+1. Le contrôle de gestion dans le contexte de management actuel
+1. Le contexte actuel de management
+L’environnement économique actuel est très complexe car il est instable et international, les frontières de l’entreprise s’effacent. L’environnement prend en compte plusieurs paramètres : la qualité, l’innovation… Cette complexité engendre un certain nombre de risques de plus en plus difficiles à évaluer.
+
+
+L’environnement technique et technologique. La digitalisation et la numérisation rendent les postes de travail de plus en plus flexibles. Ces évolutions agissent sur tous les processus, y compris décisionnaires.
+
+
+L’environnement sociétal comprend les enjeux en matière de Responsabilité Sociale et Environnementale (RSE).
+2. Le pilotage de la performance
+La performance c’est la compétitivité de l’entreprise, sa capacité à être plus forte que ses concurrents et de pouvoir mieux implémenter sa stratégie. La performance est associée à l'efficacité et à l’efficience.
+
+
+L’entreprise doit être efficace, c'est-à-dire avoir les meilleurs résultats possibles compte tenu des objectifs fixés.
+
+
+L’efficience est la capacité à gérer de la meilleure manière possible les moyens disponibles afin d’atteindre les résultats.
+
+
+Aujourd’hui on est à la recherche d’une performance globale : sur le plan financier, commercial, social et environnemental. Il est difficile d’arriver à un tel niveau global. Il faut fixer des objectifs raisonnables et atteignables.
+
+
+La valeur des produits est comment sont-ils perçus par le client. On parle aussi de valeur créée par toute l’organisation. Ici on compte les activités principales, auxiliaires et de soutien. On agit sur toutes ces activités.
+  
+
+2. Le positionnement et la contingence du contrôle de gestion
+1. L’émergence du contrôle de gestion
+La notion date du XXème siècle et elle a évolué. Durant cette époque, le contrôle de gestion s'applique uniquement aux industries. Les séries de produits étaient grandes et continues. Une première évolution s’opère dans les années 1970 avec une intégration de la gestion budgétaire (prévisions) et du contrôle budgétaire. A cette époque, on voit apparaître un système de pilotage des objectifs par rapport aux moyens. Les organisations sont découpées par centres de responsabilités (services).
+
+
+Le contrôle de gestion est un outil qui permet de mieux maîtriser l’évolution de l’environnement et qui permet de mesurer les résultats des actions de l’entreprise par rapport aux objectifs. Le contrôle de gestion permet de procéder à des rectifications lorsque cela s’avère nécessaire. 
+ Une image contenant texte, capture d’écran, Police, conception
+
+Description générée automatiquement 
+
+
+
+ Une image contenant texte, capture d’écran, Police, conception
+
+Description générée automatiquement 
+
+2. Définition du contrôle de gestion
+Selon R. Anthony (1965), le contrôle de gestion est le processus par lequel les dirigeants s’assurent que les ressources sont obtenues et utilisées avec efficacité (par rapport aux objectifs) et efficience (par rapport aux moyens employés) pour réaliser les objectifs.
+3. Le périmètre actuel du contrôle de gestion
+L’élargissement du périmètre de la performance à conduit à l’élargissement du périmètre de contrôle de gestion, la fonction est transversale. Des paramètres non financiers sont à prendre en compte, les éléments à intégrer ne se limitent plus aux coûts de marges et résultats financiers.
+
+
+Piloter la performance de l'organisation. Le contrôleur de gestion a des missions parfois stratégiques. Dans cette partie on regroupe la création des outils et méthodes qui permettent de calculer et évaluer les variables nécessaires. On trouve ensuite des missions sur le plan opérationnel liées à la mise en place des moyens nécessaires pour atteindre les objectifs, vient ensuite le contrôle des résultats.
+
+
+Piloter l’amélioration constante de l’organisation. Le contrôleur doit aider tous les responsables des services à procéder à des améliorations opérationnelles, au changement organisationnel. 
+
+
+Piloter des risques. 
+
+
+Piloter la valeur pour les différentes parties prenantes. Le contrôleur est chargé d’assurer le suivi de la qualité du produit ou service. Pour améliorer la qualité, on gère la disponibilité du personnel, les délais, les services associés au produit en question. A nouveau c’est une approche transversale qui s’impose.
+
+
+Piloter les ressources humaines.
+
+
+Le contrôleur doit avoir une position hiérarchique suffisante pour se faire respecter.
+
+
+ Une image contenant texte, capture d’écran, cercle, Police
+
+Description générée automatiquement 
+
+4. Les autres formes de contrôle
+Contrôle interne. Toutes les mesures de contrôle que l’entreprise réalise elle-même pour protéger la qualité de l’information et pour pouvoir améliorer sa performance. C’est toutes les procédures mises en place en interne qui doivent êtres suivies. C’est une activité facultative.
+
+
+L’Ordre des experts-comptables (OEC) définit le  contrôle interne comme « l’ensemble des sécurités contribuant à la maîtrise de l’entreprise ayant pour but, d’un côté, d’assurer la protection, la sauvegarde du patrimoine et la qualité de l’information, de l’autre, l’application des instructions de la direction et de favoriser l’amélioration des performances. Il se manifeste par l’organisation, les méthodes et les procédures de chacune des activités de l’entreprise pour maintenir la pérennité de celle-ci. »
+
+
+Audit interne. Service au sein de l’organisation qui est constitué pour contrôler l’ensemble des activités et fournir des avis sur l’efficacité de l’utilisation des moyens disponibles.
+
+
+
+
+ Une image contenant texte, capture d’écran, Police, ligne
+
+Description générée automatiquement 
+
+3.  Le métier du contrôleur de gestion
+1. Les missions du contrôleur de gestion
+Trois axes permettent de synthétiser les rôles du contrôleur de gestion. Premièrement, l’information. C’est de fournir des outils pertinents et améliorés en permanence compte tenu du contexte. Deuxièmement, l’animation, missions de communiquer et de conseiller les autres responsables de services et la direction compte tenu de l’utilisation de outils. Troisièmement, l’organisation, c’est l’accompagnement dans les changements à mettre en place.
+  
+
+2. Les qualités du contrôleur de gestion
+Le contrôleur de gestion doit être spécialiste dans son domaine mais également disposer de compétences d’autres domaines de la gestion pour accompagner les différents acteurs.
+  
+
+3. La place du contrôleur de gestion au sein de l’organisation
+Il y a trois positionnements possibles. Premièrement, un rattachement au directeur général, ce positionnement permet des missions sur le plan stratégique, il y’a du pouvoir et de la légitimité face aux autres responsables de services. Deuxièmement, un rattachement au directeur financier, dans ce cas de figure le contrôleur de gestion sera dépendant de la direction financière ce qui peut nuire à la communication avec les autres responsables de services. Troisièmement, au même niveau que les autres responsables de services, la solution est envisageable quand un service de contrôle de gestion doit être créé.
+4. Le lien entre le contrôle de gestion et le système d’information
+1. le contrôle de gestion comme un système d’information
+Un système d’information est un ensemble structuré de données, de méthodes de collectes et de traitement de ces données afin d’élaborer des calculs et des résultats. Chaque système d’information permet d’améliorer la prise de décisions, de coordonner les actions et de contrôler les résultats. On constate un enrichissement des outils et des méthodes au niveau des calculs de coûts mais aussi de la gestion budgétaire.
+2. Les sources d'information du contrôle de gestion
+La comptabilité financière. Historiquement c’est la première source d’information. Aujourd'hui les informations issues de cette source doivent être complétés avec la comptabilité de gestion.
+
+
+Les informations de l’organisation. Le fonctionnement, le temps machine, la quantité fabriquée, les plannings, la gestion du personnel, le temps de traitement d’une commande, les caractéristiques des fournisseurs, des sous-traitants… On ne trouve pas de normalisation.
+
+
+L’impact des logiciels sur le contrôle de gestion. Le contrôleur de gestion doit avoir accès à toutes les données de l’entreprise. Le logiciel intégré permet de réduire le temps d’accès à l’information.
+
+
+  
+
+  
+
+5. L’avenir du contrôle de gestion
+1. Un contexte exigeant un élargissement du contrôle de gestion
+Le passage se fait vers une économie totalement numérique avec de nombreuses caractéristiques : les relations sont directes et en temps réel avec les clients, la flexibilité des produits, une demande diversifiée, un pilotage en temps réel, une gestion des prix différenciée.
+
+
+Un nouveau contexte économique. Avant on trouvait des produits standardisés par marchés ou part de marchés. Cela simplifie la gestion des stocks. Aujourd’hui on est dans la multiplication et la personnalisation des produits, c’est difficile de gérer les coûts. 
+
+
+Un changement de modèle managérial.
+
+
+On attend aujourd’hui du contrôleur du conseil, de l’accompagnement et de la prise de décisions.
+2. Les évolutions du contrôle de gestion
+La première évolution est liée à la maîtrise des données et à la pertinence des informations. Cela va conditionner la bonne exécution des missions. Il s’agit d’analyser la qualité, la fiabilité et l'utilité des données internes ou externes. Il s’agit de gérer les données entrantes et sortantes pour identifier les sources, les utilisateurs. C’est une étape préalable à toute prise de décision.
+
+
+Le contrôle de gestion des services. Le développement de services nécessite une évolution du contrôle de gestion. Le coût des services intègre des paramètres qui ne sont pas inclus s’il s’agit d’une analyse de produits. On trouve des coûts liés à l’attente et à la non utilisation des services. L’objectif est d’optimiser la rentabilité en tenant compte de l’évolution de la demande qui n’est pas linéaire par exemple. Il est difficile de calculer le rapport entre le résultat et les moyens mis en place. La gestion des charges fixes est importante dans le service. Le contrôleur de gestion ne peut pas anticiper.
+
+
+Le contrôle de gestion de l'e-commerce. Le contrôleur est indirectement impacté mais d’autres paramètres doivent êtres gérés. La livraison, la fidélisation, la durée de rentabilisation… L’e-commerce recherche une croissance au niveau du volume.
+Chapitre 2. Contrôle de gestion en avenir incertain et aléatoire
+1. Les variables aléatoires
+1. Les variables aléatoires et les probabilités
+Les variables aléatoires sont utilisées lorsque l’entreprise doit faire face à une incertitude. On peut considérer qu’il s’agit d’un outil mathématique qui aide à la prise de décision. Il faut déterminer une fonction mathématique pour pouvoir calculer et associer une probabilité à un événement aléatoire. Les événements aléatoires sont : les ventes, les niveaux d’approvisionnements…
+
+
+Un événement aléatoire est un événement dont la réalisation est incertaine.
+
+
+La probabilité est la chance que l’événement incertain se produise.
+2. Les variables aléatoires discrètes
+Une variable aléatoire est discrète lorsqu’elle peut prendre un nombre limité de valeurs. Il y a une valeur minimale et maximale.
+3. Les variables aléatoires continues
+Les variables aléatoires continues peuvent prendre un nombre illimité de valeurs. La probabilité ne vise pas à obtenir une certaine valeur mais de se situer dans une certaine intervalle. C’est le cas du CA, du résultat, de la MCV…
+4. Les caractéristiques d’une variable aléatoire
+Espérance mathématique : valeur moyenne dans une intervalle donnée. C’est la somme des probabilité multipliée par les valeurs des variables.
+
+
+Écart-type : c’est la racine carrée de la variance. C’est la dispersion autour de la moyenne.
+
+
+  
+
+2. La loi normale
+1. Les caractéristiques de la loi normale
+C’est la loi la plus utilisée en science de gestion. Graphiquement c’est une cloche symétrique par rapport à la moyenne. En fonction de l’écart-type on peut avoir deux types de cloches. Chaque variable qui suit une loi normale se caractérise par une moyenne et un écart-type.
+X -> N(m;σ)
+
+
+Avec une loi normale on a un nombre infini de possibilités, en gestion on doit réduire ces possibilités. On utilise la loi normale centrée réduite. C’est une loi normale qui se caractérise par la variable T. Avec le T on doit lire la table de la loi normale.
+  
+
+  
+
+2. La lecture de la table de la loi normale
+  
+
+  
+
+  
+
+  
+
+  
+
+3. L’utilisation de la loi normale
+Les propriétés mathématiques de l'espérance et de la variance.
+
+
+Propriétés d’une transformation d’une variable.
+  
+
+
+
+Propriétés d’une somme ou d’une différence de variables indépendantes.
+  
+
+
+
+La loi du volume des ventes, du CA et du R.
+
+
+Du volume des ventes au CA.
+  
+
+
+
+Du volume des ventes au R.
+  
+
+
+
+La loi des ventes en modifiant la période d’étude.
+  
+
+Chapitre 3. Gestion budgétaires
+1. La stratégie budgétaire et la stratégie de l'organisation
+Le contrôle de gestion a pour objectif de décliner les choix stratégiques sous forme de plans qui permettent de couvrir un horizon temporel plus court. La gestion budgétaire est un ensemble de plan (recettes, dépenses) valable pour une durée d’un an.
+1. La planification d’entreprise
+La planification est un processus prévisionnel qui va du long terme au court terme. C’est un ensemble d’informations dont l’horizon est de plus en plus restreint. 
+
+
+Le plan stratégique. Il s’agit des plans qui engagent l’entreprise à long terme, jusqu'à 5 ans.
+
+
+Le plan opérationnel. Il s’agit des plans qui engagent l’entreprise à moyen terme, période de 2 à 3 ans.
+
+
+La gestion budgétaire engage l’entreprise sur le court terme. Les budgets sont réalisés par fonctions, activités…
+
+
+ Une image contenant texte, capture d’écran, Police, ligne
+
+Description générée automatiquement 
+
+2. La démarche de gestion budgétaire
+Définition de la gestion budgétaire. La gestion budgétaire consiste à traduire les choix stratégiques et opérationnels en programmes d’action pour l’année à venir. Il s’agit d’un outil de pilotage de l’organisation. 
+
+
+Les budgets. Il faut confronter les budgets et les réalisations. Cette confrontation permettra de mettre en avant des écarts plus ou moins significatifs qui donnent lieu à des actions collectives. La démarche budgétaire est double. Les budgets sont une expression chiffrée des prévisions de ventes, d’achat, de production, de mouvements du personnel.
+ 
+Budgets imposés. Ils existent lorsque la hiérarchie impose à chaque responsable un certain nombre d’objectifs et de moyens alloués.
+
+
+Budgets négociés. Ce sont les budgets que les responsables de services mettent en place après des négociations avec la direction.
+
+
+Le déploiement des budgets. Pour chaque budget il s’agit de déterminer les moyens humains à mettre en œuvre ainsi que les conséquences sur le choix opérationnel. Les budgets de l’année N doivent être obligatoirement approuvés avant la fin de l’année précédente. On commence par le budget de vente, de celui-là découle les autres. Une fois les budgets décidés, ils doivent être transposés au sein des différents services, par l’information des salariés. L’entreprise peut réaliser des états financiers prévisionnels (CR, bilan) pour analyser l’impact des budgets sur le patrimoine et la profitabilité.
+
+
+Contrôle budgétaire. Le contrôle budgétaire est la confrontation entre les résultats réels et les résultats figurant au budget. L’objectif étant de définir les causes des écarts et prendre les mesures collectives nécessaires.
+
+
+        Définir les centres de responsabilité. Pour que le contrôle soit efficace, il faut définir les centres de responsabilité.
+
+
+Servir de liaison et d’arbitrage entre les centres de responsabilités.
+
+
+Décider du degré d’autonomie délégué au centre.
+
+
+Mettre en place des unités de mesure des performances connues et acceptées par les responsables.
+ Une image contenant texte, capture d’écran
+
+Description générée automatiquement 
+
+3. Les caractéristique de la gestion budgétaire
+Un système de pilotage à court terme. La gestion budgétaire est un outil de coordination puisque les budgets s’appliquent à l’ensemble des services de l’organisation et la gestion budgétaire permet de centraliser toutes les actions en élaborant un budget général. C’est aussi un outil de simulation qui permet de tester différentes hypothèses, cet aspect est primordial face à l’incertitude de l’environnement.
+
+
+Un certain degré de décentralisation. La gestion budgétaire par le biais de la création des centres de responsabilité permet à la direction générale de déléguer une certaine partie du pouvoir. La question est de trouver le compromis entre la décentralisation et la cohérence stratégique.
+
+
+Une participation des acteurs à une direction par objectifs. C’est une gestion en fixant des objectifs spécifiques par services. L’idée étant de permettre une meilleure motivation du personnel et une meilleure satisfaction. On trouve une phase de fixation de l’objectif général puis des objectifs individuels puis des actions qui permettent de suivre la réalisation des objectifs. On parle de direction participative : les membres des services participent à l’élaboration des objectifs.
+2. La mise en oeuvre de la gestion budgétaire
+1. Des budgets structurés en centre de responsabilité
+Ce sont des budgets plus ou moins structurés en fonction des services
+
+
+La notion de centre de responsabilité. C’est un groupe d'individus organisés autour d’un objectif commun, il dispose d’un responsable auquel les moyens sont octroyés. 
+
+
+La nature des centres de responsabilité et leurs indicateurs de performance. C’est une partie de l'entreprise qui a certaines missions et doit respecter certains critères de performances. Il y a cinq catégories de centres de responsabilité.
+
+
+Centre de coût. Il a pour objectif de minimiser le coût de production tout en respectant le cahier de charges.
+
+
+Centre de coûts discrétionnaires. Les missions ne sont pas directement rattachées à la production ou à la distribution et il doit respecter un budget imposé. 
+
+
+Centre de recettes. Il doit assurer un niveau maximal de chiffre d'affaires. On peut avoir des indicateurs de performance traditionnels (volume, valeur) ou des indicateurs qualitatifs (expérience client, satisfaction).
+
+
+Centre de profit. C’est une entité à part entière qui doit dégager une marge maximale en améliorant les recettes et en minimisant les coûts. Si il y a plusieurs établissements, chacun est considéré comme un centre de profit. On est sur un critère de rentabilité (résultat, R/CA, SIG).
+
+
+Centre d’investissement. C’est une entité qui peut réaliser des investissements qui sont en concordance avec les décisions stratégiques du groupe (filiale).
+
+
+Chaque entreprise choisit la répartition de centres de responsabilité en fonction de sa structure. C’est la direction qui prend la décision. Ce découpage dépend de la nature, taille et stratégie à long terme. Plus la délégation du pouvoir est importante, plus le nombre de centres de responsabilité est important.
+ Une image contenant texte, capture d’écran, Police, nombre
+
+Description générée automatiquement 
+
+2. Des budgets structurés en activités et processus
+La structuration est basée sur la méthode ABC et permet de faire les budgets par activité. Il faut voir quelles activités maîtrisent au mieux les ressources et identifier quelles sont les activités critiques. Il s’agit des budgets transversaux et qui permettent de faciliter l’échange en continue. 
+
+
+Les effets de l'aplatissement des structures organisationnelles sur les budgets. Dans cette structuration, on a besoin de structures à faibles niveaux hiérarchiques.
+
+
+Des “reprévisions” possibles. Les budgets ne sont pas forcément faits au rythme annuel, il s’agit de réaliser des budgets en continue. En cas d’activité fortement saisonnière ce sera intéressant.
+
+
+ Une image contenant texte, diagramme, capture d’écran, Parallèle
+
+Description générée automatiquement 
+
+3. Les enjeux et limites de la gestion budgétaire
+1. Les enjeux et les intérêts
+Les enjeux techniques et humains. La gestion budgétaire permet d'optimiser l’efficacité, l’efficience de l'organisation. Sur le plan humain, la gestion budgétaire permet d’assurer une délégation des responsabilités et permet de rendre plus autonomes les différents salariés.
+
+
+Les avantages d’une gestion décentralisée par budgets. Permet d'être plus réactif, adaptés aux besoins du marché, réactivité de prise de décisions, 
+2. Les limites
+Le budget et les décisions. Les budgets sont focalisés sur des décisions opérationnelles. Très souvent, le respect des budgets crée des contradictions entre les décisions opérationnelles et stratégiques.
+
+
+Le budget et le temps. Les budgets sont des plans énergivores en ressources et occupent les responsables de service, cela les éloignent des plans à long terme. On peut choisir un horizon différent pour aligner au mieux les objectifs.
+
+
+Le budget et l'incertitude. C’est un outil de réduction de l’incertitude mais ce constat n’est valable qu’en cas d’environnement prévisible. Aujourd’hui on est dans un environnement imprévisible. Les budgets deviennent des outils de simulation de l’incertitude.
+
+
+Le budget et la performance. Le budget focalise l’attention des responsables de service et de la direction sur la performance financière. La gestion de la qualité, RSE ne peuvent pas être effectués grâce à des budgets. Il faut assurer d’autres gestions de ces paramètres.
+3. Beyond Budgeting
+Chapitre 4. Gestion budgétaire de l’activité commerciale
+1. Les enjeux de la gestion budgétaire de l’activité commerciale
+1. Les approches marketing
+Pour construire les prévisions des ventes, les entreprises peuvent utiliser des approches marketing.
+
+
+Théories de cycle de vie de produit. Chaque produit passe par quatre phases : lancement, croissance, maturité, déclin. Les ventes varient à chaque étape. 
+
+
+Etudes qualitatives.
+  
+
+2. Les approches statistiques de prévisions
+Les approches statistiques des prévision permettent d’exprimer les ventes futures sous forme d’une équation mathématique. On trouve la variable temps (x) et la variable vente (y).
+
+
+Corrélation de variables. Il s’agit de déterminer le lien qui existe entre deux variables, et d'apprécier son degré. Le coefficient peut être positif ou négatif. Il est positif lorsque les deux variables évoluent dans le même sens et il est négatif lorsque les variables évoluent dans les sens inverses. Si le coefficient de corrélation est proche de 0, il n’y a pas de lien entre les deux variables. Si il est proche de 1 les deux variables sont liées entre elles, on parle de corrélation forte si le coefficient dépasse 0,95. S'il est proche de -1 les variables ne sont pas liées. 
+
+
+Le degré de corrélation permet de choisir un modèle.
+  
+
+L’objectif de la représentation statistique des ventes est d’exprimer au mieux le lien existant entre les deux variables. Il s’agit de trouver la fonction mathématique qui permet de prévoir les ventes futures en se basant sur les ventes passées. Il s’agit de modéliser la tendance des ventes sous forme d’équation qui sert de base à faire les prévisions. Un modèle mathématique sera privilégié par rapport à un autre si son coefficient de corrélation est plus élevé.
+
+
+Démarche de la régression mathématique.
+* Plus le coefficient de détermination est proche de 1, plus le modèle est de qualité.
+* Si le coefficient est égal à 1, les points sont parfaitement situés sur la fonction mathématique et le modèle est parfait.
+
+
+Ajustement linéaire. Ce modèle suppose que les ventes futures vont progresser de manière régulière. On parle de croissance arithmétique. Les ventes sont représentées sous forme y = ax+b
+  
+
+
+
+Ajustement exponentiel. Il est utilisé lorsque la croissance ou la décroissance des ventes est de plus en plus rapide. On à une croissance géométrique.
+  
+
+Ajustement de puissance. Il s’applique lorsque la croissance ou la décroissance est de moins en moins rapide.
+  
+
+2. Les ventes saisonnières
+1. Définition du phénomène de saisonnalité
+Représentation graphique. On étudie les ventes saisonnières par trimestre. On à des ventes plus ou moins importantes mais qui suivent une tendance. On utilise uniquement l’ajustement linéaire.
+ Une image contenant texte, ligne, Tracé, capture d’écran
+
+Description générée automatiquement 
+
+2. Les modèles mathématiques de saisonnalité
+On peut utiliser les moyennes ou les ventes.
+
+
+Les moyennes mobiles.
+
+
+Les moyennes mobiles centrées (MMC). C’est un outil qui permet de recentrer le calcul sur les observations principales et par conséquent les MMC éliminent un certain nombre de données. Si la saisonnalité est trimestrielle, les moyennes mobiles se calculent ainsi.
+  
+
+3. Modélisation de la tendance saisonnalité
+Choix de la méthode de modélisation.
+
+
+Calcul des coefficient saisonnier. C’est un coefficient qui permet de mesurer l’influence de la saison sur les ventes. Les coefficients supérieurs à 1 sont des périodes de ventes plus fortes.
+
+
+La méthode du rapport à la tendance.
+
+
+CS = Donnée observée (ventes) / Donnée ajustée (ventes théoriques en appliquant le modèle ax+b correspondant)
+
+
+La méthode du rapport au MMC.
+
+
+CS = Donnée observée / MMC
+4. Prévisions des ventes saisonnières
+Ventes prévues = Ventes théoriques selon la tendance * CS moyen
+3. Les budgets des activités commerciales
+1. Les intérêts de méthodes de prévisions
+Réduire l’incertitude et la complexité. Aujourd’hui les marchés sont certains. L'incertitude existe et l’entreprise ne pourra pas y échapper.
+
+
+Mettre sous tension les acteurs. Permettre à la direction générale de fixer des objectifs et d’exercer une pression. 
+2. Les limites des données et des modèles
+
+
+Limites de données. On part sur des données passées, pourtant elles ne doivent pas être considérées comme des données 100% fiables pour les prévisions des ventes futures.
+
+
+Limites des modèles choisis. Il faut arbitrer entre les modèles disponibles, lorsque deux modèles présentent des coefficient de corrélation proches.
+Chapitre 5. Gestion budgétaire de la production
+1. Les enjeux de la gestion de la production
+Les problèmes de la gestion de la production consistent à définir un programme de production c'est-à-dire les quantités à fabriquer pour maximiser le résultat. Le contrôleur de gestion doit faire face à plusieurs contraintes dans le cadre de la planification de la production.
+1. La gestion de la production sous contrainte
+Il s’agit de ressources limitées que l’entreprise ne pourra pas dépasser et qui la limitent dans sa production. Toute contrainte peut être enlevée mais cela nécessite des investissements.
+ Une image contenant texte, capture d’écran, Police, cercle
+
+Description générée automatiquement 
+
+2. Les modes de gestion de la production
+La gestion de la production a changé de méthode. Il y’a deux modèles de pilotage de la production :
+
+
+Pilotage par l’amont. Ici on est dans le cadre de l’organisation traditionnelle de la production. L’entreprise détermine une quantité prévisionnelle de production et stock les biens qui n’ont pas été commercialisés. L’objectif ici est la fabrication en grande quantité à moindre coût pour bénéficier d’économies d’échelle.
+
+
+Pilotage par l’aval. Depuis les années 1970 on assiste à une modification du modèle de gestion de la production. Ce changement a été rendu nécessaire par l’intensification de la concurrence, les exigences des clients, que l’offre dépasse la demande sur le marché. Dans ce modèle de gestion de la production, l’entreprise recherche la production des biens ou services qui sont réellement demandés aux clients. C’est la production à la demande. Ce modèle s’accompagne du principe des cinq zéro : 0 stocks ; 0 défauts ; 0 pannes ; 0 délais ; 0 papiers.
+  
+
+2. Les modèles mathématiques de détermination des quantitées à produire
+1. Le cas de monoproduction
+Quand l’entreprise ne fabrique qu’un seul produit, toutes les ressources sont consommées par le produit en question. Il y a très peu d'entreprises qui ont de la monoproduction. Le modèle mathématique va dépendre du nombre de produits.
+2. Le cas de multiproduction - la programmation linéaire
+La programmation linéaire est utilisée lorsque l’entreprise fabrique deux produits et qu’elle a pour objectif de maximiser son résultat. Cela consiste à formaliser sous forme d’inéquation les différentes contraintes auxquelles l'entreprise est exposée.
+
+
+Formalisation du problème. C’est la première étape.
+
+
+La fonction économique. C’est l’expression de la variable que l’entreprise cherche à maximiser (marge, résultat) ou la variable à minimiser (coût).
+
+
+Les contraintes. Il s’agit de ressources limitées que l’entreprise ne pourra pas dépasser et qui la limitent dans sa production.
+
+
+La résolution graphique du problème.
+
+
+La détermination de la zone d’acceptabilité.
+
+
+Le calcul des quantités optimales.
+
+
+Le calcul de la fonction économique optimale.
+3. Le facteur rare
+Le facteur rare de production est utilisé lorsqu’une seule contrainte limite la production de deux ou plusieurs produits. La résolution consiste à calculer la MCV par unité de facteur rare et classer les produits de la marge la plus élevée à la marge la plus faible.
+
+
+MCV par unité de facteur rare = MCVu / Nb UO
+4. Le goulot d’étranglement
+C’est l’hypothèse dans laquelle des contraintes limitent la production mais pour une des deux contraintes la production maximale peut être lancée en respectant une des deux contraintes.
+
+
+Desserrer une contrainte. On peut à tout moment faire un investissement et desserrer une contrainte. Quelle est la contrainte concernée par l’investissement ? On va modifier la zone d’acceptabilité.
+
+
+Chapitre 6.
