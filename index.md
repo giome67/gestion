@@ -1,9 +1,10 @@
-# Bienvenue sur mes cours de gestion
+# 📘 Cours de Gestion
 
-## 📚 Menu de navigation
+Bienvenue sur mon site de cours de gestion. Choisissez un thème pour accéder aux contenus.
 
-- [Introduction à la gestion](cg1.md)
-- [Marketing](cours/marketing.md)
-- [Comptabilité](cours/compta.md)
-- [Management](cours/management.md)
-- [Ressources PDF](assets/pdf/)
+## 📚 Grands thèmes
+
+- [Finance](finance/index.md)
+- [Contrôle de gestion](controle-gestion/index.md)
+- [Comptabilité](compta/index.md)
+- [Droit](droit/index.md)
