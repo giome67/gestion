@@ -22,52 +22,28 @@ Une variable aléatoire est continue lorsqu’elle peut prendre un nombre illimi
 ## 1.4 Caractéristiques d’une variable aléatoire
 L’espérance mathématique représente la valeur moyenne attendue de la variable. Elle se calcule comme la somme des valeurs possibles pondérées par leurs probabilités.
 
-
-
-\[
-E(X) = \sum_{i=1}^{N} x_i \cdot P(X = x_i)
-\]
-
-
+E(X) = Σ [ xᵢ × P(X = xᵢ) ]
 
 L’écart-type mesure la dispersion des valeurs autour de la moyenne. Il correspond à la racine carrée de la variance.
 
-
-
-\[
-\sigma(X) = \sqrt{\sum_{i=1}^{N} (x_i - E(X))^2 \cdot P(X = x_i)}
-\]
-
-
+σ(X) = √ Σ [ (xᵢ − E(X))² × P(X = xᵢ) ]
 
 ---
 
 # 2. La loi normale
 
 ## 2.1 Caractéristiques de la loi normale
-La loi normale est la loi de probabilité la plus utilisée en sciences de gestion. Elle se représente graphiquement par une courbe en cloche, symétrique autour de la moyenne. Une variable qui suit une loi normale est caractérisée par deux paramètres : la moyenne \( m \) et l’écart-type \( \sigma \).
+La loi normale est la loi de probabilité la plus utilisée en sciences de gestion. Elle se représente graphiquement par une courbe en cloche, symétrique autour de la moyenne. Une variable qui suit une loi normale est caractérisée par deux paramètres : la moyenne \( m \) et l’écart-type \( σ \).
 
 On note généralement :
 
-
-
-\[
-X \sim N(m, \sigma)
-\]
-
-
+X ~ N(m ; σ)
 
 La loi normale offre un nombre infini de valeurs possibles. Pour faciliter les calculs, on utilise souvent la loi normale centrée réduite, qui repose sur une variable appelée \( T \). Cette variable permet de lire les probabilités dans la table de la loi normale.
 
 La transformation est la suivante :
 
-
-
-\[
-T = \frac{X - m}{\sigma}
-\]
-
-
+T = (X − m) / σ
 
 ---
 
