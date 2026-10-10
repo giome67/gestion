@@ -1,7 +1,7 @@
-# 📊 Contrôle de gestion
+# Contrôle de gestion
 
 Bienvenue dans la section Contrôle de gestion.
 
-## 📑 Notions
+## Notions
 
 [Positionnement](positionnement.md)
