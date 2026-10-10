@@ -5,3 +5,5 @@ Bienvenue dans la section Contrôle de gestion.
 ## Notions
 
 [Positionnement](positionnement.md)
+[Loi normale](loi-normale.md)
+
